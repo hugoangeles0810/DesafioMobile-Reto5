@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DesafioMobile-Reto5</string>
+
+    <string name="action_settings">Settings</string>
+
+    <array name="menu_items_ids">
+        <item>@id/nav_first</item>
+        <item>@id/nav_second</item>
+        <item>@id/nav_third</item>
+    </array>
+
+    <string-array name="menu_items_activities">
+        <item>io.github.hugoangeles0810.desafiomobile_reto5.FirstActivity</item>
+        <item>io.github.hugoangeles0810.desafiomobile_reto5.SecondActivity</item>
+        <item>io.github.hugoangeles0810.desafiomobile_reto5.ThirdActivity</item>
+    </string-array>
+</resources>
