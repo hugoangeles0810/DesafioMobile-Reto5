@@ -3,9 +3,6 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
-/.idea/tasks.xml
-/.idea/gradle.xml
-/.idea/dictionaries
 /.idea/kotlinc.xml
 .DS_Store
 /build
